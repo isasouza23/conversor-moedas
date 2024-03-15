@@ -11,7 +11,7 @@
 }
 
 .converter h2 {
-    color: #343a40;
+    color: #223548;
     font-size: 1.8rem;
     margin-bottom: 2rem;
 }
@@ -28,8 +28,8 @@
     border-radius: 4px;
     font-size: 1rem;
     color: #495057;
-    background-color: #fff;
-    border: 1px solid #ced4da;
+    background-color: #0a2d4c;
+    border: 1px solid #000000;
 }
 
 .converter input {
