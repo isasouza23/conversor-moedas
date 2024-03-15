@@ -6,7 +6,7 @@
     border-radius: 10px;
     width: 400px;
     margin: 2rem auto;
-    background-color: #f8f8fa;
+    background-color: #8c8cd7;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
@@ -17,7 +17,7 @@
 }
 
 .converter h3 {
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 .converter input,
