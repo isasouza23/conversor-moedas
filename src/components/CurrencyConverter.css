@@ -3,15 +3,15 @@
     flex-direction: column;
     align-items: center;
     padding: 2rem;
-    border-radius: 10px;
-    width: 400px;
+    border-radius: 30px;
+    width: 450px;
     margin: 2rem auto;
-    background-color: #8c8cd7;
+    background-color: #92bbde;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .converter h2 {
-    color: #223548;
+    color: #000000;
     font-size: 1.8rem;
     margin-bottom: 2rem;
 }
@@ -28,7 +28,7 @@
     border-radius: 4px;
     font-size: 1rem;
     color: #000000;
-    background-color: #0a2d4c;
+    background-color: #6d7ee2;
     border: 1px solid #000000;
 }
 
@@ -40,7 +40,7 @@
 .converter p {
     margin: 0.5rem;
     font-size: 1rem;
-    color: #495057;
+    color: #1c3a58;
 }
 
 .converter p {
